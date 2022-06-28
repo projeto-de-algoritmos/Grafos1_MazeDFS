@@ -30,7 +30,6 @@ Demonstra a travessia de um labirinto utilizando o algoritmo DFS.
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: Pygame<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso
 
