@@ -10,6 +10,10 @@
 ## Sobre 
 Demonstra a travessia de um labirinto utilizando o algoritmo DFS.
 
+## Apresentação
+
+A apresentação pode ser acessada no seguinte [link](https://youtu.be/Kka-djKgaeg).
+
 ## Screenshots
 ![Geração do labirinto](./images/screenshot1.png)
 </figcaption>
