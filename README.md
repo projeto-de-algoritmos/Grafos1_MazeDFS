@@ -11,11 +11,25 @@
 Demonstra a travessia de um labirinto utilizando o algoritmo DFS.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Geração do labirinto](./images/screenshot1.png)
+</figcaption>
+    Imagem 1: Geração do labirinto
+</figcaption>
+
+![Backtracking](./images/screenshot2.png)
+</figcaption>
+    Imagem 2: Backtracking em verde
+</figcaption>
+
+![Travessia](./images/screenshot3.png)
+</figcaption>
+    Imagem 3: Menor trajeto
+</figcaption>
+
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: Pygames<br>
+**Framework**: Pygame<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso
